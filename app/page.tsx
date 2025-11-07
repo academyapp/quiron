@@ -2,10 +2,9 @@
 "use client";
 
 import { BannersDisplay } from "@/components/banners/banners-display";
-import { ArrowRight, Newspaper, Shield, Trophy } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { LatestNews } from "@/components/home/latest-news";
 import { RecentMatches } from "@/components/home/recent-matches";
